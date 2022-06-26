@@ -1,0 +1,26 @@
+.nav {
+    position: relative;
+    width: 100%;
+    height: 55px;
+    background-color: #f36060;
+}
+
+.title {
+    position: absolute;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    font-size: 14.4px;
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.earth-icon {
+    vertical-align: middle;
+    border: solid 2px rgb(255, 255, 255);
+    border-radius: 50%;
+    font-size: 2.1em;
+    margin-right: 8px;
+}
